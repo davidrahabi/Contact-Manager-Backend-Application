@@ -3,7 +3,7 @@ const asyncHandler = require("express-async-handler"); // asyncHandler will auto
 
 const Contact = require("../models/contactModel");
 
-//@desc Get all contacts
+//@desc Get all contacts in database
 //@route GET /api/contacts
 //@access private
 
